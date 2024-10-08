@@ -2,6 +2,7 @@
     "country_code": "NL",
     "party_id": "STK",
     "id": "101",
+    "authorization_reference": "feb61268-7ec4-4f31-a07f-968871052474",
     "start_date_time": "2020-03-09T10:17:09Z",
     "kwh": 0.0,
     "cdr_token": {
